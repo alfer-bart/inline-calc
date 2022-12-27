@@ -1,5 +1,6 @@
 # inline-calc
 
+/*
 + = add
 - = subtract
 * = multiply
@@ -11,6 +12,7 @@ p = pi constant
 e = e constant
 (...) = expression in parentheses
 q = quit program
+*/
 
 Example:
 (15-(7+3))*2^3+r64
